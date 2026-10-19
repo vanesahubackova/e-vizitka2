@@ -1,0 +1,276 @@
+body{
+    background-color: #D7D2C8;
+    font-family: "Space Grotesk", sans-serif;
+    margin: 0;
+}
+
+p{
+    margin: 0;
+}
+
+.obal{
+    width: 854px;
+    margin: 11px auto 10px;
+}
+
+.radek{
+    display: flex;
+}
+
+
+
+
+.prvnikarta{
+    margin-bottom: 10px;
+    margin-right: 10px;
+    width: 606px;
+    height: 308px;
+    background-color: #171717;
+    color:#F4F1E9;
+    padding: 26px;
+    border: 1px solid #F4F1E9;
+    border-radius: 22px;
+    box-sizing: border-box;
+    position: relative;
+}
+.druhakarta{
+    margin-bottom: 10px;
+    width: 238px;
+    height: 308px;
+    background-color: #FF5C35;
+    color: #171717;
+    padding: 26px;
+    border: 1px solid #F4F1E9;
+    border-radius: 22px;
+    box-sizing: border-box;
+    position: relative;
+}
+    
+.tretikarta{
+    margin-bottom: 10px;
+    margin-right: 10px;
+    width: 358px;
+    height: 228px;
+    background-color:#F4F1E9;
+    color:#171717;
+    padding: 26px;
+    border: 1px solid #F4F1E9;
+    border-radius: 22px;
+    box-sizing: border-box;
+}
+
+.ctvrtakarta{
+    margin-bottom: 10px;
+    margin-right: 10px;
+    width: 238px;
+    height: 228px;
+    background-color:#F4F1E9;
+    color:#171717;
+    padding: 26px;
+    border-radius: 22px;
+    box-sizing: border-box;
+    position: relative;
+}
+
+.patakarta{
+    margin-bottom: 10px;
+    width: 238px;
+    height: 228px;
+    background-color:#171717;
+    color:#F4F1E9;
+    padding: 26px;
+    border: 1px solid #F4F1E9;
+    border-radius: 22px;
+    box-sizing: border-box;
+    position: relative;
+}
+
+
+.sestakarta{
+    margin-right: 10px;
+    width: 358px;
+    height: 216px;
+    background-color:#171717;
+    color:#F4F1E9;
+    padding: 26px;
+    border: 1px solid #F4F1E9;
+    border-radius: 22px;
+    box-sizing: border-box;
+}
+
+
+.sedmakarta{
+    margin-right: 10px;
+    width: 238px;
+    height: 216px;
+    background-color:#F4F1E9;
+    color:#171717;
+    padding: 26px;
+    border-radius: 22px;
+    box-sizing: border-box;
+    position: relative;
+}
+
+
+.osmakarta{
+    width: 238px;
+    height: 216px;
+    background-color: #FF5C35;
+    color:#171717;
+    padding: 26px;
+    border: 1px solid #F4F1E9;
+    border-radius: 22px;
+    box-sizing: border-box;
+    position: relative;
+}
+
+
+
+
+
+
+
+
+
+
+.nejmensi{
+  color: #F4F1E9;
+  font-size: 12px;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+
+
+.nejmensi1{
+color: #171717;
+font-size: 12px;
+letter-spacing: 1px;
+}
+
+
+.nejvetsi{
+font-size: 76px;
+font-weight: bold;
+line-height:0.9;
+letter-spacing: -4px;
+margin-top: 29px;
+}
+
+
+.podtitulek{
+    font-size: 12px;
+    position: absolute;
+    left: 18px;
+    bottom: 18px;
+}
+
+.vetsi1{
+font-size: 40px;
+font-weight: bold;
+line-height: 1;
+letter-spacing: -2px;
+position: absolute;
+left: 18px;
+bottom: 40px;
+}
+
+
+.vetsi2{
+    font-size: 40px;
+    font-weight: bold;
+    line-height:1 ;
+    letter-spacing: -1px;
+}
+
+
+.vetsi3{
+    color: #FF5C35;
+    font-size: 40px;
+    font-weight: bold;
+    line-height: 48px;
+}
+
+
+.vetsi4{
+    color:#FF5C35;
+    font-size: 40px;
+    font-weight: bold;
+    line-height:1 ;
+    letter-spacing: -3px;
+    position: absolute;
+    left: 18px;
+    bottom: 42px;
+}
+
+
+.bezny1{
+    font-size: 20px;
+    font-weight: bold;
+    line-height:1.1 ;
+    letter-spacing: -1px;
+    position: absolute;
+    left: 18px;
+    bottom: 18px;
+}
+
+.kod{
+    font-family: monospace;
+    font-size: 11px;
+    font-weight: bold;
+    line-height: 1.5;
+}
+
+.bezny2{
+    font-size: 20px;
+    line-height:1.1 ;
+    letter-spacing: -1px;
+    position: absolute;
+    left: 18px;
+    bottom: 18px;
+}
+
+
+.bezny3{
+    font-size: 20px;
+    line-height: 1.17;
+    letter-spacing: -1px;
+    position: absolute;
+    left: 18px;
+    bottom: 18px;
+}
+
+
+
+
+.ikona{
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    width: 24px;
+    height: 24px;
+}
+
+
+
+.ctverec1{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 16px;
+    height: 16px;
+    border: 1px solid #171717;
+    border-radius: 3px;
+}
+
+
+
+.ctverec2{
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    width: 16px;
+    height: 16px;
+    background-color: #F4F1E9;
+    border: 1px solid #171717;
+    border-radius: 3px;
+}
